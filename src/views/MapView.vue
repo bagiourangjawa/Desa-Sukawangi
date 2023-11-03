@@ -152,7 +152,7 @@ export default {
   },
   async created() {
     this.loading = true;
-    const response = await fetch("/lu_ds_nyule.geojson");
+    const response = await fetch("/desa_sukawangi.geojson");
     const data = await response.json();
     this.geojson = data;
     this.loading = false;
