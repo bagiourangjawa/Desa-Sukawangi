@@ -23,9 +23,6 @@ import Sidebar from "../components/Sidebar.vue";
           1. Meningkatkan Profesionalisme Pelayanan Publik;
           <ul>
             <li>Meningkatkan kualitas pelayanan masyarakat dan penyelenggaraan pemerintahan desa; </li>
-
-
-
             </ul>
         </li>
         <li>
