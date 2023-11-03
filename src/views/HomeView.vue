@@ -19,23 +19,23 @@ import Sidebar from "../components/Sidebar.vue";
       </p>
       <p class="text-lg font-semibold">Misi</p>
       <ul>
-        <li>
-          1. Meningkatkan Profesionalisme Pelayanan Publik;
+        <li><strong>
+          1. Meningkatkan Profesionalisme Pelayanan Publik;</strong>
           <ul>
             <li>a. Meningkatkan kualitas pelayanan masyarakat dan penyelenggaraan pemerintahan desa; </li>
             <li>b. Meningkatkan Profesionalitas dan kinerja apartur desa demi tercapainya perencanaan pembangunan desa; </li>
             <li>c. Meningkatkan dan mengembangkan partisipasi masyarakat dalam pembangunan desa. </li>
             </ul>
         </li>
-        <li><br/>
-          2. Meningkatkan Kesehatan masyarakat melalui Program Pemerintah;
+        <li><br/><strong>
+          2. Meningkatkan Kesehatan masyarakat melalui Program Pemerintah;</strong>
           <ul>
             <li>a. Mendorong masyarakat untuk sadar kesehatan dengan memfasilitasi jaminan kesehatan masyarakat melalui program pemerintah; </li>
             <li>b. Meningkatkan sarana dan prasarana kesehatan di desa melaui pemberdayaan Posyandu dan pembangunan pos kesehatan di desa.</li>
             </ul>
         </li>
-        <li><br/>
-          3. Mewujudkan sarana dan prasarana infrastruktur yang nyaman;
+        <li><br/><strong>
+          3. Mewujudkan sarana dan prasarana infrastruktur yang nyaman;</strong>
           <ul>
             <li>a. Meningkatkan akses infrastruktur jalan desa, jalan lingkungan, jalan pertanian dan akses jalan wisata; </li>
             <li>b. Meningkatkan akses infrastruktur jalan desa, jalan lingkungan, jalan pertanian dan akses jalan wisata; </li>
@@ -43,16 +43,16 @@ import Sidebar from "../components/Sidebar.vue";
             <li>d. Meningkatkan pembangunan sarana dan prasarana olahraga. </li>
             </ul>
         </li>
-        <li><br/>
-          4. Mewujudkan kesadaran masyarakat terhadap pentingnya pendidikan;
+        <li><br/><strong>
+          4. Mewujudkan kesadaran masyarakat terhadap pentingnya pendidikan;</strong>
          <ul>
             <li>a. Mempermudah akses masyarakat untuk memperoleh pendidikan; </li>
             <li>b. Mendorong masyarakat untuk peran serta mendukung pemerintah dengan wajib belajar 12 Tahun;</li>
             <li>c. Mendorong pembangunan sarana dan prasarana pendidikan baik melalui Dinas terkait maupun APBdesa. </li>
             </ul>
         </li>
-        <li><br/>
-          5.Mewujudkan masyarakat yang agamis dan mandiri;
+        <li><br/><strong>
+          5.Mewujudkan masyarakat yang agamis dan mandiri;</strong>
         <ul>
             <li>a. Meningkatkan peran serta masyarakat dalam kegiatan keagamaan; </li>
             <li>b. Mendukung kegiatan keagamaan di lingkungan masyarakat melalui bantuan keuangan desa dan kegiatan bulanan keagamaan dimasing-masing wilayah;</li>
